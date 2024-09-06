@@ -1,2 +1,1 @@
-# FSE-Nuruto
-Fancy Nuruto Repo
+Five Guys has the best burgers!
